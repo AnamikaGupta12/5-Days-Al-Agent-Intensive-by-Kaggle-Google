@@ -1,1 +1,49 @@
+# Enterprise Workflow Automation & Knowledge Assistant (AI Agent)
 
+A capstone project built during the **5-Day AI Agents Intensive by Google & Kaggle** under the **Enterprise Agents Track**.
+
+## 🚀 Project Summary
+An AI-powered enterprise agent that automates workflows, retrieves knowledge, generates insights, and takes real actions using tool integrations powered by the Agent Development Kit (ADK).
+
+## 🎯 Features
+- Knowledge retrieval from PDFs, docs, and policies  
+- Workflow automation using custom ADK tools  
+- Report generation and analysis  
+- Multi-step reasoning & planning  
+- API / Google Sheets / JSON integrations  
+- Enterprise-ready use cases (HR, IT, Sales, Ops)
+
+## 🏗 Tech Stack
+- Google Gemini model  
+- Agent Development Kit (ADK)  
+- Python  
+- Vector search  
+- (Optional) Streamlit UI  
+
+## 📌 Architecture
+- User → Agent → Tool Calls → Knowledge / Data → Final Result  
+- Supports multi-step workflows and action execution
+
+## 📸 Screenshots
+(Add images here)
+
+## 🎥 Demo Video
+(Add link)
+
+## 📦 Repository Structure
+- `/tools` → Tool definitions  
+- `/data` → Sample enterprise docs  
+- `/notebooks` → Agent demos  
+- `app.py` → Optional UI  
+- `README.md` → Documentation  
+
+## 🛠 Setup
+Instructions to run locally:
+
+## 🚀 Future Enhancements
+- Slack/Jira/Gmail integration  
+- Multi-agent collaboration  
+- Full enterprise Auth system  
+
+## 🏅 Course
+5-Day AI Agents Intensive by Kaggle & Google
